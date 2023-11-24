@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2023-12-07
+date: 2023-11-07
 img: apple-of-discord.png
 alt: image-alt
 project-date: September-December 2023
