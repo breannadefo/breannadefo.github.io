@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 date: 2022-12-21
-img: cabin.png
+img: vending-machine.png
 alt: image-alt
-title: Vending Machine
+title: CINA Vending Machine
 project-date: December 2022
 category: Programming III
-link-to-github:
-description: This is the final project that I had to do for one of my classes. It was in pairs and we chose to make a vending machine in C# and WPF.
+link-to-github: https://github.com/breannadefo/cina-vending-machine
+description: This is the final project that I had to do for one of my classes. It was in pairs and we chose to make a vending machine using C# and WPF.
 ---
