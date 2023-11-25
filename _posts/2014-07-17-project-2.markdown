@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2023-05-18
-img: Koala_Budget.png
+img: koala-budget.png
 alt: image-alt
 project-date: February-May 2023
 category: Application Development I

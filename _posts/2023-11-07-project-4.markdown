@@ -7,11 +7,7 @@ alt: image-alt
 project-date: September-December 2023
 category: Application Development II
 link-to-github: https://github.com/dianakarpeev/mutsu
-description: For this project, we were tasked with created an Android application using Kotlin and Jetpack Compose. The group I am in have decided to create a meal planner/grocery list generator app. It has three main functions. 
-    1. Creating and discovering recipes. 
-    2. Creating a meal plan based on the recipes the user selected. 
-    3. Generating an editable grocery list based on what ingredients are needed for the planned meals. 
-Testing newline \n\nagain
+description: For this project, we were tasked with created an Android application using Kotlin and Jetpack Compose. The group I am in have decided to create a meal planner/grocery list generator app. It has three main functions. 1. Creating and discovering recipes. 2. Creating a meal plan based on the recipes the user selected. 3. Generating an editable grocery list based on what ingredients are needed for the planned meals.Testing newline \n\nagain
 icon-link: https://www.flaticon.com/free-icons/golden-apple
 icon-link-title: golden apple icons
 icon-artist: Freepik

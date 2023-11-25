@@ -17,6 +17,9 @@
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             <ul class="list-inline item-details">
+              {% if post.description %}
+              <p>{{ post.description }}</p>
+              {% endif %}
               {% if post.client %}
               <li>Client:
                 <strong>{{ post.client }}</strong>
@@ -41,9 +44,9 @@
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
             <ul class="list-inline item-details">
-              {% if post.icon-link %}
+              {% if post.link %}
               <li>Cover Image by 
-                <a href="{{ post.icon-link }}" title="{{ post.icon-link-title }}" >{{ post.icon-artist }}</a>
+                <a href="{{ post.link }}" title="{{ post.link-title }}" >{{ post.artist }}</a>
               </li>
               {% endif %}
             </ul>
