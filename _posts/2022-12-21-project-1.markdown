@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022-12-21
+img: cabin.png
+alt: image-alt
+project-date: December 2022
+category: Programming III
+link-to-github:
+description: This is the final project that I had to do for one of my classes. It was in pairs and we chose to make a vending machine in C# and WPF.
+---
