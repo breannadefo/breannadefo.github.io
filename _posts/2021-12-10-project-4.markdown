@@ -2,11 +2,16 @@
 layout: default
 modal-id: 4
 date: 2021-12-10
-img: apple-of-discord.png
+img: game-icon.png
 alt: image-alt
 title: Colour Changing Walls
 project-date: December 2021
 category: Programming I
 link-to-github: https://github.com/breannadefo/changing-wall-colour-game
-description: For this project, we were tasked with created an Android application. The group I am in have decided to create a meal planner/grocery list generator app. It has three main functions:\ 1. Creating and discovering recipes. 2. Creating a meal plan based on the recipes the user selected. 3. Generating an editable grocery list based on what ingredients are needed for the planned meals. \nTesting newline \n\nagain
+description: This game is one of the first 'big' projects I ever made. It was for the final project of the first programming class I took in college.
+description-2: The game I is a mashup of the mobile games 'Color Switch' and 'Flappy Bird'. Here is a screenshot of what the gameplay looks like.
+project-image-2: random-walls-screenshot.png
+project-image-2-alt: screenshot of the gameplay
+description-3: While this might not be the most advanced or well programmed thing I've ever made, I wanted to put it here to show my progress. I have come a long way and have learned a lot since this game was created. When I opened it and saw that it was all in the console, I got flashbacks of back when I first started learning how to code. Honestly, playing it again a couple years later felt a bit nostalgic.
+description-4: Either way, I remember being really proud of this game when I made it, so this is here to honor my younger self. 
 ---
