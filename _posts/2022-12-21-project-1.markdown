@@ -4,6 +4,7 @@ modal-id: 1
 date: 2022-12-21
 img: cabin.png
 alt: image-alt
+title: Vending Machine
 project-date: December 2022
 category: Programming III
 link-to-github:
