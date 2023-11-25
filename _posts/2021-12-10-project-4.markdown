@@ -13,5 +13,5 @@ description-2: The game I made is a mashup of the mobile games 'Color Switch' an
 project-image-2: random-walls-screenshot.png
 project-image-2-alt: screenshot of the gameplay
 description-3: While this might not be the most advanced or well programmed thing I've ever made, I wanted to put it here to show my progress. I have come a long way and have learned a lot since this game was created. When I opened it and saw that it was all in the console, I got flashbacks of back when I first started learning how to code. Honestly, playing it again a couple years later felt a bit nostalgic.
-description-4: Either way, I remember being really proud of this game when I made it, so this is here to honor my younger self. 
+description-4: Either way, I remember being really proud of this game when I made it, so this is here to honour my younger self. 
 ---
