@@ -485,6 +485,9 @@ footer .footer-below {
 
 
 .about-me {
+    position:relative;
+    min-height: 1px;
+    padding-top: 10px;
     padding-left: 15px;
     padding-right: 15px;
     text-align: left;
