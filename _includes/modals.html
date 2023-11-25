@@ -28,7 +28,7 @@
               {% if post.description-2 %}
               <p>{{ post.description-2 }}</p>
               <br />
-              {% endif %}\
+              {% endif %}
               {% if post.project-image-2 %}
               <img src="img/portfolio/{{ post.project-image-2 }}" class="img-responsive img-centered" alt="{{ post.project-image-2-alt }}">
               <br />
@@ -109,9 +109,9 @@
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
             <ul class="list-inline item-details">
-              {% if post.link %}
+              {% if post.icon-link %}
               <li>Cover Image by 
-                <a href="{{ post.link }}" title="{{ post.link-title }}" >{{ post.artist }}</a>
+                <a href="{{ post.icon-link }}" title="{{ post.icon-link-title }}" >{{ post.icon-artist }}</a>
               </li>
               {% endif %}
             </ul>

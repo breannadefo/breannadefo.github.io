@@ -14,11 +14,11 @@ description-3: 2. Creating a meal plan based on the recipes the user selected.
 description-4: 3. Generating an editable grocery list based on what ingredients are needed for the planned meals.
 description-5: As of when I am posting this, the app is still a work in progress. Since the final product is only due mid-December, and it is still November when I am writing this, we haven't been able to fully implement everything we want to do yet.
 description-6: Either way, I'll show you part of the project that I have been working on for the past couple months.
-description-7: My main part of the project has been the grocery list screen. This screen shows all the possible ingredients the user can buy or needs to buy. Next to each ingredient is a plus and minus sign. These are buttons that control the amount of that ingredient that they want to buy.
-project-image-7:
-project-image-7-alt:
-description-8: While this might seem simple enough, I can assure you that it is not. Because of the way Jetpack Compose handles updating the UI and the state of variables, it took me nearly two months to set this up in a way that didn't hardcode the values and use 20+ variables to display a few ingredients. I was unbelievably happy when I was finally able to get it working.
-description-9: Otherwise, I'd say the project is going well. We are making good progress and I am very excited to see how the finished version turns out.
+description-7: My main part of the project has been the grocery list screen. This screen shows all the possible ingredients the user can buy or needs to buy. Next to each ingredient is a plus button and a minus button. These control the amount of that ingredient that the user wants to buy.
+project-image-7: mutsu-grocery-list.png
+project-image-7-alt: screenshot of the grocery list where you can change the amount of each ingredient
+description-8: This seemed easy and simple enough to do, but I was horribly mistaken. Because of the way Jetpack Compose handles updating the UI and the state of variables, it took me nearly two months to set this up in a way that didn't hardcode all the values and use 20+ variables to display a few ingredients. I was unbelievably happy when I was finally able to get it working.
+description-9: Otherwise, I'd say the project is going well. My team and I are making good progress and we are very excited to see how the finished product turns out.
 icon-link: https://www.flaticon.com/free-icons/golden-apple
 icon-link-title: golden apple icons
 icon-artist: Freepik

@@ -9,7 +9,7 @@ project-date: December 2021
 category: Programming I
 link-to-github: https://github.com/breannadefo/changing-wall-colour-game
 description: This game is one of the first 'big' projects I ever made. It was for the final project of the first programming class I took in college.
-description-2: The game I is a mashup of the mobile games 'Color Switch' and 'Flappy Bird'. Here is a screenshot of what the gameplay looks like.
+description-2: The game I made is a mashup of the mobile games 'Color Switch' and 'Flappy Bird'. Here is a screenshot of what the gameplay looks like.
 project-image-2: random-walls-screenshot.png
 project-image-2-alt: screenshot of the gameplay
 description-3: While this might not be the most advanced or well programmed thing I've ever made, I wanted to put it here to show my progress. I have come a long way and have learned a lot since this game was created. When I opened it and saw that it was all in the console, I got flashbacks of back when I first started learning how to code. Honestly, playing it again a couple years later felt a bit nostalgic.
