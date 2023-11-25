@@ -9,4 +9,7 @@ project-date: December 2022
 category: Programming III
 link-to-github: https://github.com/breannadefo/cina-vending-machine
 description: This is the final project that I had to do for one of my classes. It was in pairs and we chose to make a vending machine using C# and WPF.
+icon-link: https://www.flaticon.com/free-icons/vending-machine
+icon-link-title: vending machine icons
+icon-artist: Freepik
 ---

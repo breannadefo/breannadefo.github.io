@@ -1,11 +1,12 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-15
+modal-id: 4
+date: 2021-12-10
 img: apple-of-discord.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+title: Colour Changing Walls
+project-date: December 2021
+category: Programming I
+link-to-github: https://github.com/breannadefo/changing-wall-colour-game
 description: For this project, we were tasked with created an Android application. The group I am in have decided to create a meal planner/grocery list generator app. It has three main functions:\ 1. Creating and discovering recipes. 2. Creating a meal plan based on the recipes the user selected. 3. Generating an editable grocery list based on what ingredients are needed for the planned meals. \nTesting newline \n\nagain
 ---
