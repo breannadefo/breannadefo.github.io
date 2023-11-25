@@ -9,6 +9,12 @@ project-date: December 2022
 category: Programming III
 link-to-github: https://github.com/breannadefo/cina-vending-machine
 description: This is the final project that I had to do for one of my classes. It was in pairs and we chose to make a vending machine using C# and WPF.
+description: This was one of my first experiences using WPF and I really enjoyed it. This on top of the fact that we had a lot of freedom to experiment and be creative made the project incredibly fun to work on. It also helped that I was doing it with one of my close friends.
+description-2: Although I was working more on the back-end of this project, there were a few front-end elements I remember doing. One of these was having the user's receipt pop up on the screen. It was simple enough to do, considering I just had to create a MessageBox. Here is what it looks like.
+project-image-3: vending-machine-receipt-screenshot.png
+project-image-3-alt: screenshot of a receipt
+description-3: Getting this to work was incredibly satisfying, and also ended up being incredibly useful since I had to create a lot more MessageBox pop ups in later projects.
+description-4: There is one element of this project that I would like to change and that is being able to restock the items. At the moment, the stock comes from a simple csv file. So if you ever want to add any stock, you have to manipulate that file before you run the project. If I ever get the chance, I'd love to implement a way to restock certain items while the project is running.
 icon-link: https://www.flaticon.com/free-icons/vending-machine
 icon-link-title: vending machine icons
 icon-artist: Freepik
