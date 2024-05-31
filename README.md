@@ -30,3 +30,6 @@ View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-the
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+
+
+Adding a line to check if my commits are signed.
